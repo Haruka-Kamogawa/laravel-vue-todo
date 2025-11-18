@@ -1,0 +1,68 @@
+body {
+  background-color: #fffffe;
+  font-family: 'メイリオ', 'Meiryo', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', sans-serif;
+  font-size: 14px;
+}
+
+.navbar {
+  background-color: #272343;
+  color: #FFFFFE;
+}
+
+.navbar .navbar-brand {
+  color: #FFFFFE;
+}
+
+.footer {
+  background-color: #272343;
+  color: #FFFFFE;
+}
+
+.navbar .header-nav {
+  color: #FFFFFE;
+}
+
+.navbar .btn {
+  padding: 0;
+}
+
+.badge {
+  background-color: #272343;
+  color: #FFFFFE;
+}
+
+.timer-box {
+  width:650px; 
+  text-align:center;
+  border: 2px solid #272343 !important;
+  border-radius: 20px !important;
+}
+
+form .button {
+  font-size: 15px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #272343;
+  background-color: #ffd803;
+}
+
+form .button:hover {
+  border: 1px solid #ffd803;
+  background-color: #e8c500;
+}
+
+.card .card-header {
+  background-color: #fffffe;
+}
+
+.container hr {
+  border: 0;                        
+  height: 2px;                       
+  background-color: #272343;         
+  opacity: 1;         /* ← これが重要 */
+  margin: 0.5rem 0;
+}
+
